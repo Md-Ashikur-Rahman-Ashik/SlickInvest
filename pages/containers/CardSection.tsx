@@ -62,7 +62,7 @@ export default function CardSection() {
                                     </svg>
 
                                     <article>
-                                        <header>Custom  & designs your card, make it unique  </header>
+                                        <div className="article-header">Custom  & designs your card, make it unique  </div>
                                         <p>Create a custom card that reflects your unique stlye and personality. Choose from a range of colors, patterns, and design to customize the look of your card.</p>
                                     </article>
 
@@ -81,12 +81,12 @@ export default function CardSection() {
                                 >
                                     <svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <rect x="0.75" y="0.74231" width="69" height="69" rx="34.5" fill="#902A9C"/>
-                                        <path d="M47.25 27.2423L39.9571 34.5352C39.5666 34.9257 38.9334 34.9257 38.5429 34.5352L35.9571 31.9494C35.5666 31.5589 34.9334 31.5589 34.5429 31.9494L28.5833 37.909" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                        <path d="M23.25 23.2423V44.0423C23.25 45.1624 23.25 45.7225 23.468 46.1503C23.6597 46.5266 23.9657 46.8326 24.342 47.0243C24.7698 47.2423 25.3299 47.2423 26.45 47.2423H47.25" stroke="white" stroke-width="2" stroke-linecap="round"/>
+                                        <path d="M47.25 27.2423L39.9571 34.5352C39.5666 34.9257 38.9334 34.9257 38.5429 34.5352L35.9571 31.9494C35.5666 31.5589 34.9334 31.5589 34.5429 31.9494L28.5833 37.909" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                                        <path d="M23.25 23.2423V44.0423C23.25 45.1624 23.25 45.7225 23.468 46.1503C23.6597 46.5266 23.9657 46.8326 24.342 47.0243C24.7698 47.2423 25.3299 47.2423 26.45 47.2423H47.25" stroke="white" strokeWidth="2" strokeLinecap="round"/>
                                     </svg>
 
                                     <article>
-                                        <header>Personalize your financial insights and goals</header>
+                                        <p>Personalize your financial insights and goals</p>
                                         <p>Track your spending patterns, analyze income or expenses easily, and receive personalized recommendations to optimize to ur financial habits.</p>
                                     </article>
 
@@ -112,7 +112,7 @@ export default function CardSection() {
                                     </svg>
                     
                                     <article>    
-                                        <header>Free transfer any where around the world </header>
+                                        <p>Free transfer any where around the world </p>
                                         <p>Experience the freedom of hassle-free money transfers with our free transfer admin finance app. Say goodbye to unnecessary fees and enjoy seamless transactions.</p>
                                     </article>   
                                 </motion.div>

@@ -45,7 +45,7 @@
     gap: 16px;
 }
 
-.card_container_div header {
+.card_container_div > .article-header {
     font-size: 36px;
 }
 

@@ -17,7 +17,7 @@ export default function TestimonialSection() {
                 <p>Experience the freedom of hassle-free money transfers with our free transfer admin finance app. Say goodbye to unnecessary fees and enjoy seamless transactions.</p>
 
                 <div className={styles.testimonial_customer}>
-                    <header>John Timothy</header>
+                    <p>John Timothy</p>
 
                     <div className={styles.testimonial_button_container}>
                         <button>
